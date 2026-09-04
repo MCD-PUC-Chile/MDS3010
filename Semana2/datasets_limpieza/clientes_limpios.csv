@@ -1,0 +1,61 @@
+id_cliente,nombre,email,ciudad,fecha_registro,genero,edad,telefono,id_cliente_num
+1000,Sofía,sofa8@test.io,Valparaíso,04/03/2023,F,140.0,56-2-2231821,1000
+1001,Joaquín,dup@correo.cl,La Serena,06/03/2023,Female,5.0,56-2-2260494,1001
+1002,Felipe,dup@correo.cl,Concepción,05/15/2024,F,5.0,912562241,1002
+1003,Mateo,mateo88@empresa.co,Rancagua,17-04-24,M,1.0,(+56) 5768057,1003
+1004,Martina,martina54@ejemplo.org,Rancagua,2023-06-30,M,29.0,981847639,1004
+1005,Sofía,sofa88@test.io,Rancagua,15/02/2024,,29.0,913618316,1005
+1006,Mateo,mateo33@ejemplo.org,Iquique,04/22/2024,masculino,121.0,927543491,1006
+1007,Alejandro,alejandro12@ejemplo.org,Concepción,08-07-24,Male,2.0,+56 9 9480 9073,1007
+1008,Carolina,carolina58@ejemplo.org,Temuco,2024-04-26,femenino,5.0,56-2-2953970,1008
+1009,Lucas,,Rancagua,2023-03-28,M,2.0,56-2-2163486,1009
+1010,Camila,sin_email,La Serena,23-08-24,femenino,103.0,56-2-2867318,1010
+1011,Alejandro,alejandro20@correo.cl,Talca,11/30/2023,No responde,29.0,+56 9 2601 9318,1011
+1012,Isabella,isabella62@test.io,Puerto Montt,2023-09-23,No responde,1.0,+56 9 8017 2198,1012
+1013,Sebastián,sebastin33@correo.cl,La Serena,06/25/2025,M,110.0,+56 9 6556 7902,1013
+1014,Alejandro,alejandro50@ejemplo.org,Antofagasta,2025-03-18,,1.0,(+56) 9710569,1014
+1015,Valentina,valentina10@ejemplo.org,Valparaíso,2025-05-26,F,4.0,56-2-2045304,1015
+1016,Antonia,antonia81@ejemplo.org,La Serena,02-07-23,femenino,32.0,(+56) 9840352,1016
+1017,Tomás,toms65@ejemplo.org,La Serena,2024-12-24,masculino,19.0,(+56) 7580334,1017
+1018,Trinidad,,Concepción,27-09-23,femenino,51.0,+56 9 6842 3997,1018
+1019,Isabella,,Valparaíso,08/02/2024,femenino,137.0,966329160,1019
+1020,Sebastián,sebastin81@empresa.co,Puerto Montt,31/05/2024,No responde,67.0,+56 9 2718 7170,1020
+1021,Agustín,agustn96@test.io,Valparaíso,01/24/2025,femenino,115.0,(+56) 2643740,1021
+1022,Trinidad,trinidad10@test.io,Antofagasta,2024-09-28,F,106.0,+56 9 9462 5678,1022
+1023,Isabella,sin_email,Puerto Montt,10/03/2023,M,104.0,980982378,1023
+1024,Ignacio,sin_email,Iquique,2025-01-14,masculino,36.0,+56 9 7525 2966,1024
+1025,Trinidad,trinidad76@mail.com,Rancagua,15/10/2023,F,2.0,(+56) 8811233,1025
+1026,Benjamín,benjamn58@test.io,Antofagasta,2024-07-17,M,3.0,(+56) 4523597,1026
+1027,Vicente,,Puerto Montt,08/14/2023,femenino,108.0,932095026,1027
+1028,Isabella,isabella53@test.io,Antofagasta,12-10-23,M,2.0,+56 9 8304 8075,1028
+1029,Carolina,,Puerto Montt,12/09/2023,M,29.0,905045476,1029
+1030,Josefa,josefa13@mail.com,Talca,20/03/2025,F,120.0,(+56) 2245625,1030
+1031,Maximiliano,maximiliano83@empresa.co,La Serena,08/21/2023,F,29.0,56-2-2070708,1031
+1032,Emilia,emilia14@test.io,Concepción,12/11/2024,Female,41.0,952790744,1032
+1033,Valentina,sin_email,Rancagua,2024-03-29,,1.0,(+56) 8895502,1033
+1034,Isabella,sin_email,Rancagua,19/02/2024,,20.0,+56 9 6555 6946,1034
+1035,Catalina,sin_email,La Serena,04/21/2024,No responde,4.0,931694511,1035
+1036,Valentina,valentina53@mail.com,Iquique,12/03/2024,F,2.0,(+56) 5496712,1036
+1037,Agustín,agustn16@ejemplo.org,Talca,2023-09-24,masculino,2.0,56-2-2415309,1037
+1038,Camila,,Iquique,04-04-24,F,30.0,56-2-2390318,1038
+1039,Josefa,,Talca,08-02-23,femenino,102.0,56-2-2428862,1039
+1040,Mateo,mateo9@empresa.co,Rancagua,30/06/2024,Male,3.0,976037035,1040
+1041,Alejandro,alejandro26@empresa.co,La Serena,06/10/2023,F,5.0,953246742,1041
+1042,Antonia,antonia9@mail.com,La Serena,02/14/2023,,105.0,56-2-2651221,1042
+1043,Lucas,lucas21@empresa.co,Concepción,17/07/2023,Female,59.0,(+56) 4090934,1043
+1044,Ignacio,,Talca,04/02/2024,No responde,46.0,+56 9 2502 8241,1044
+1045,Catalina,,Puerto Montt,2025-03-14,F,55.0,947096651,1045
+1046,Diego,diego62@correo.cl,Talca,2023-02-07,M,3.0,985405246,1046
+1047,Ana,ana14@ejemplo.org,Rancagua,20-01-24,Female,37.0,969270678,1047
+1048,Catalina,catalina38@test.io,Rancagua,05/16/2023,M,18.0,930099528,1048
+1049,Benjamín,benjamn2@correo.cl,Iquique,11-06-25,masculino,1.0,+56 9 9480 9074,1049
+1050,Vicente,vicente14@mail.com,La Serena,09/14/2024,No responde,3.0,(+56) 9083613,1050
+1051,Pablo,pablo14@ejemplo.org,Santiago,12-12-24,,127.0,+56 9 5346 5843,1051
+1052,Isabella,isabella50@ejemplo.org,Rancagua,12/10/2024,masculino,1.0,+56 9 6042 4472,1052
+1053,Antonia,,Concepción,30/01/2023,F,104.0,+56 9 6954 4265,1053
+1054,Renata,,Santiago,10/02/2025,No responde,56.0,945166387,1054
+1055,Trinidad,trinidad99@test.io,Antofagasta,27/02/2024,masculino,130.0,56-2-2178647,1055
+1056,Sofía,sofa24@empresa.co,Puerto Montt,2023-10-18,Male,26.0,(+56) 5366101,1056
+1057,Valentina,valentina39@ejemplo.org,Puerto Montt,2025-06-24,masculino,5.0,962163898,1057
+1058,Martina,martina65@correo.cl,Talca,11-09-23,Female,26.0,(+56) 3639402,1058
+1059,Maximiliano,maximiliano82@mail.com,Rancagua,05/24/2025,Male,56.0,(+56) 9616888,1059

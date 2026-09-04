@@ -1,0 +1,13 @@
+id_producto,producto,categoria,precio
+2001,"Notebook 14""",Computación,499000.0
+2002,"Notebook 15""",Computación,599000.0
+2003,Mouse inalámbrico,Accesorios,19990.0
+2004,Teclado mecánico,Accesorios,39990.0
+2005,"Monitor 24""",Audio/Video,159990.0
+2006,"Monitor 27""",Audio/Video,219990.0
+2007,Impresora,Computación,129990.0
+2008,Silla de oficina,Muebles,99990.0
+2009,Escritorio,Muebles,159990.0
+2010,Auriculares,Accesorios,24990.0
+2011,Webcam,Accesorios,29990.0
+2012,USB 64GB,Accesorios,14990.0
